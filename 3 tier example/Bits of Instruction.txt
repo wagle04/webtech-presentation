@@ -1,0 +1,21 @@
+Bits of Instruction:
+====================
+
+1. Create a database named AllSampleCode.
+
+2. Download Script.zip  In side this you will find .
+
+	a. Tables.sql
+	b. Stored Procedures.sql
+
+
+3. Change the database connection string in the web.config depending on your database connection.
+
+<add key="ConnectionString" value="Data Source=SQL2005DB; Initial Catalog=AllSampleCode; integrated security=SSPI"/>
+
+
+4. Create user Registration.
+
+
+***
+http:// dotnet-sai.blogspot.com/?

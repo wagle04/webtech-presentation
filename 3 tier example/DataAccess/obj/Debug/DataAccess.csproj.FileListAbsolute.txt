@@ -1,0 +1,7 @@
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\DataAccess\bin\Debug\DataAccess.dll
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\DataAccess\obj\Debug\DataAccess.dll
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\DataAccess\obj\Debug\DataAccess.pdb
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\DataAccess\bin\Debug\BussinessObject.dll
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\DataAccess\bin\Debug\BussinessObject.pdb

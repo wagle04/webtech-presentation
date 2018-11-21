@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+  <Country>
+    <Id>1</Id>
+    <Name>Nepal</Name>
+    <Continent>Asia</Continent>
+  </Country>
+  <Country>
+    <Id>2</Id>
+    <Name>USA</Name>
+    <Continent>North America</Continent>
+  </Country>
+  <Country>
+    <Id>3</Id>
+    <Name>Brazil</Name>
+    <Continent>South America</Continent>
+  </Country>
+  <Country>
+    <Id>4</Id>
+    <Name>China</Name>
+    <Continent>Asia</Continent>
+  </Country>
+  <Country>
+    <Id>5</Id>
+    <Name>Egypt</Name>
+    <Continent>Africa</Continent>
+  </Country>
+  
+</Countries>

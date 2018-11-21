@@ -1,0 +1,9 @@
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\Bussinesslogic.dll
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\Bussinesslogic.pdb
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\obj\Debug\Bussinesslogic.dll
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\obj\Debug\Bussinesslogic.pdb
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\BussinessObject.dll
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\DataAccess.dll
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\BussinessObject.pdb
+c:\users\sai\documents\visual studio 2010\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\DataAccess.pdb
